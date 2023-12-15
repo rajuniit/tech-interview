@@ -23,7 +23,6 @@
 from typing import List
 import unittest
 
-
 class Solution:
 
     # Time complexity: O(n2), Space Complexity: O(1)
